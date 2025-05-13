@@ -5,3 +5,7 @@ section#hero {
     align-items: center;
     background-color: var(--pico-primary-background);
 }
+
+#rand-num {
+    font-size: 10rem;
+}
